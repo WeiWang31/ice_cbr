@@ -1,0 +1,20 @@
+name: icecbr-paper-code
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - joblib
+  - xarray
+  - netcdf4
+  - statsmodels
+  - matplotlib
+  - pyyaml
+  - cdsapi
+  - cfgrib
+  - eccodes
+  - pyproj
+  - pytest
